@@ -1,3 +1,3 @@
 # shumbakala
 bam bam
-# Tobian = shumbakala duap bam bam
+# Tobian = shumbakala duwap bam bam
