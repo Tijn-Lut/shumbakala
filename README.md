@@ -8,7 +8,7 @@
 ###### wa = neger
 ###### la la lalalala = topgozer
 
-##### * * betekent ander woord erachter
+* * betekent ander woord erachter
 
 
 # Tobian = shumbakala bam bam duwap
