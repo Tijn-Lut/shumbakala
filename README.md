@@ -7,5 +7,6 @@
 ###### boem boem = buitenlander
 ###### wa = neger
 ###### la la lalalala = topgozer
+###### suwap = kanker
 
 #### * betekent ander woord erachter
